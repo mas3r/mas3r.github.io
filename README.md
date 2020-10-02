@@ -1,2 +1,2 @@
 # mas3r.github.io
-For dbms Project
+For DBMS (ITC08) Project
